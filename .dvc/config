@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://iitmbs-mlops-21f1001797-week-6-practice
+    credentialpath = ../sonic-terrain-480509-v7-ede318534d1e.json
