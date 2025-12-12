@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: iris-fastapi
-          image: us-central1-docker.pkg.dev/iitmbs-mlops/iris-repo/iris-fastapi:latest
+          image: us-central1-docker.pkg.dev/sonic-terrain-480509-v7/iris-repo/iris-fastapi:latest
           ports:
             - containerPort: 8000
           envFrom:
